@@ -1,1 +1,1 @@
--rencana akan menyempurnaka front end
+-rencana akan menyempurnakan front end
